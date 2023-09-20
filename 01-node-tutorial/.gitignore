@@ -1,4 +1,4 @@
 /node_modules
 /content/big.txt
-answers/temporary/*
-!answers/temporary/.keep
+answers/week-1/temporary/*
+!answers/week-1/temporary/.keep
